@@ -60,9 +60,11 @@
     line-height: 1.5;
     color: #0965c2;
     text-align: left;
-    background-image: url(/public/Freshy/sci_fi_science_space_fantasy_art_artwork_artistic_futuristic_12000x6000.jpg);
+    background-image: url(/public/Freshy/Minimalistic_dark_bokeh_1920x1200.jpg);
     background-size: 100%;
     background-repeat: repeat;
+    background-position: right top;
+    background-attachment: fixed;
   }
   
   [tabindex="-1"]:focus:not(:focus-visible) {
