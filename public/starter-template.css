@@ -1,56 +1,92 @@
 body {
-  padding-top: 5rem;
+    padding-top: 5rem;
 }
+
 .starter-template {
-  padding: 3rem 1.5rem;
-  text-align: center;
-  font-size: 35px;
-  font-weight: 600;
+    padding: 3rem 1.5rem;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
 }
-.styleinline{
+
+.styleinline {
     height: 400px;
     width: auto;
-    border-style: solid ;
+    border-style: solid;
     border-width: 5px;
-    border-color:black;
+    border-color: black;
 
 }
 
-.styledesign{
-    font-size: 40px;
-    color:red;
+.styledesign {
+    font-size: 50px;
+    color: #9B30FF;
     font-weight: 500;
     top: 150px;
     left: center;
-    text-shadow: 0px 2px  white;
-
+    text-shadow: 0px 2.5px white;
 }
 
-.stylecontact{
+.stylecontact {
     font-size: 15px;
-    
+
 }
 
-.style_education{
+.style_education {
     font-size: 20px;
-    color: white;
-    top: 10px;
+    color: whitesmoke;
+    top: 50px;
     text-align: left;
-    
+    font-weight: 500;
+    text-align: justify;
+    text-indent: 50px;
 }
 
-.stylede_education{
+.stylede_education {
     width: auto;
     height: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+
 }
 
-.styletopic{
-    font-size: 40px;
-    color: yellowgreen;
+.styletopic {
+    font-size: 50px;
+    color: white;
     text-align: center;
     font-weight: 500;
     padding-top: 25px;
     padding-bottom: 25px;
-    
+    text-shadow: 3px 4px black;
+
+}
+
+.styleintoppic {
+    text-align: justify;
+    text-indent: 100px;
+    color: white;
+    font-weight: 600;
+    text-shadow: 1px 3px black;
+    font-style: oblique;
+}
+
+.styledeexp2 {
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+}
+
+.stylecontact {
+    width: 40px;
+    height: 40px;
+    bottom: 75px;
+    left: 1550px;
+
+
+
 
 }
